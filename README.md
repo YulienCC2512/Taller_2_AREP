@@ -24,8 +24,8 @@ Este proyecto tiene como objetivo evolucionar un servidor web básico —capaz a
 ### Instalación
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/YulienCC2512/Diseno-y-estructuracion-Taller.git
-cd Taller2_Arep
+git clone https://github.com/YulienCC2512/Taller_2_AREP.git
+cd Taller_2_Arep
 ```
  ### Uso
 
